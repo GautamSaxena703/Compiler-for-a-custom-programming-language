@@ -255,9 +255,4 @@ if a == b then ...
 - Generated C Code
 - Program Output
 
-## **Team - "The Resilient Coders"**
-- Team Lead : [Gautam Saxena](https://github.com/GautamSaxena703)
-- Team member 1 : [Satyam Kathait](https://github.com/satyam1024)
-- Team member 2 : [Gaurav Singh](https://github.com/GauravSinghhhh)
-- Team member 3 : [Abhishek Kamboj](https://github.com/Abhishek130900)
-
+- Developed by [Gautam Saxena](https://github.com/GautamSaxena703)
