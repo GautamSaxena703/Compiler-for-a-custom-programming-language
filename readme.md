@@ -255,4 +255,4 @@ if a == b then ...
 - Generated C Code
 - Program Output
 
-- Developed by [Gautam Saxena](https://github.com/GautamSaxena703)
+Developed by [Gautam Saxena](https://github.com/GautamSaxena703)
